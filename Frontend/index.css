@@ -1,0 +1,457 @@
+ .header1 {
+    top: 105px;
+    left: 101px;
+    width: 131px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 18px/21px Ubuntu;
+    letter-spacing: 0px;
+    color: rgba(151, 161, 169, 1);
+    opacity: 1;
+    bottom: 614px;
+}
+.header2{
+    top: 105px;
+    left: 342px;
+    width: 95px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 18px/21px Ubuntu;
+    letter-spacing: 0px;
+    color: rgba(151, 161, 169, 1);
+    opacity: 1;
+}
+.header3{
+    top: 105px;
+    left: 592px;
+    width: 73px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 18px/21px Ubuntu;
+    letter-spacing: 0px;
+    color: #97A1A9;
+    opacity: 1;
+}
+.header4{
+    top: 105px;
+    left: 748px;
+    width: 73px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 18px/21px Ubuntu;
+    letter-spacing: 0px;
+    color: rgba(151, 161, 169, 1);
+    opacity: 1;
+}
+.header5{
+    top: 105px;
+                left: 1086px;
+                width: 76px;
+                height: 20px;
+                text-align: left;
+                font: normal normal normal 18px/21px Ubuntu;
+                letter-spacing: 0px;
+                color: #97A1A9;
+                opacity: 1;
+}
+.header6{
+    top: 105px;
+                left: 1231px;
+                width: 198px;
+                height: 20px;
+                text-align: right;
+                font: normal normal normal 18px/21px Ubuntu;
+                letter-spacing: 0px;
+                color: #97A1A9;
+                text-transform: capitalize;
+                opacity: 1;
+}
+.header7{
+    top: 105px;
+                left: 1589px;
+                width: 49px;
+                height: 20px;
+                text-align: right;
+                font: normal normal normal 18px/21px Ubuntu;
+                letter-spacing: 0px;
+                color: #97A1A9;
+                text-transform: capitalize;
+                opacity: 1;
+}
+
+ #first{
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 930px;
+background: transparent radial-gradient(closest-side at 50% 50%, #58687E 0%, #39495E 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+position: relative;
+}
+#first table{
+top: 200px;
+left: 20px;
+width: 1860px;
+height: 739px;
+background: #273D49CC 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+}
+.image1{
+    top: 16px;
+left: 86px;
+width: 233px;
+height: 52px;
+text-align: left;
+font: normal normal bold 39px/52px Futura PT;
+letter-spacing: 0px;
+color: #FFFFFF;
+background: transparent url('C:\high radius\html visual code\Group 203999.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.image2 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 22px;
+    left: 843px;
+    width: 235px;
+    height: 50px;
+    background: transparent url('C:\high radius\html visual code\logo.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+.image3{
+    top: 20px;
+left: 30px;
+width: 44px;
+height: 46px;
+background: #CD7925 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+  
+p{
+    top: 100px;
+left: 30px;
+width: 141px;
+height: 31px;
+text-align: left;
+font: normal normal normal 28px/32px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+tr:nth-child(even){
+    background-color: #273D49CC;
+}
+
+tr:nth-child(odd){
+    background-color: #283A46;
+}
+.column2{
+    top: 309px;
+left: 375px;
+width: 79px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: rgba(255, 255, 255, 1);
+opacity: 1;
+}
+.column5a{
+    top: 309px;
+left: 1072px;
+width: 111px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column5b{
+    top: 459px;
+left: 1068px;
+width: 115px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.column6a{
+    top: 309px;
+left: 1432px;
+width: 12px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column6b{
+    top: 459px;
+left: 1327px;
+width: 117px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column6c{
+    top: 759px;
+left: 1332px;
+width: 112px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.checkbox{
+    top: 267px;
+left: 80px;
+width: 16px;
+height: 16px;
+
+opacity: 1;
+}
+.column3{
+    top: 309px;
+left: 563px;
+width: 124px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: rgba(255, 255, 255, 1);
+opacity: 1;
+}
+
+.column1a{
+    top: 309px;
+left: 122px;
+width: 128px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity:1;
+}
+.column1b{
+    top: 359px;
+left: 122px;
+width: 101px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column1c{
+    top: 409px;
+left: 122px;
+width: 140px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column1d{
+    top: 459px;
+left: 122px;
+width: 133px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column4a{
+    top: 309px;
+left: 821px;
+width: 74px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.column4b{
+    top: 359px;
+left: 844px;
+width: 51px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.column4c{
+    top: 409px;
+left: 832px;
+width: 63px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.column4d{
+    top: 459px;
+left: 832px;
+width: 63px;
+height: 23px;
+text-align: right;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7a{
+    top: 359px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7b{
+    top: 409px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7c{
+    top: 459px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7d{
+    top: 509px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7e{
+    top: 559px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.column7f{
+    top: 609px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7g{
+    top: 659px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7h{
+    top: 709px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7i{
+    top: 759px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.column7j{
+    top: 809px;
+left: 1611px;
+width: 212px;
+height: 23px;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.add{
+    top: 191px;
+left: 1136px;
+width: 99px;
+height: 45px;
+border: 1px solid #14AFF1;
+border-radius: 10px;
+opacity: 1;
+text-align: left;
+font: normal normal normal 20px/24px Ubuntu;
+letter-spacing: 0px;
+}
+
+.add:hover {
+    background-color: #97A1A9;
+    color: #273D49CC;
+
+}
