@@ -43,4 +43,6 @@ The dataset was processed and feature engineering process were applied on it. Th
 
 Finally, the XGB Regressor model was used to predict the payment date from the given dataset.
 
+# Web Application
 
+![Application](https://github.com/sagnikroy10/AI-enabled-B2B-FinTech-Payment-Date-Prediction-Project/assets/79736382/37f864e4-4156-4955-aa47-997ac92de31c)
