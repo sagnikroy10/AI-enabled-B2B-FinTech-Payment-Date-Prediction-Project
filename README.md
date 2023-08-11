@@ -1,4 +1,4 @@
-# AI-enabled-B2B-FinTech-Payment-Date-Prediction-Project
+# Payment-Date-Prediction-Project
 
 # Introduction
 The B2B world operates differently from the B2C or C2C world. Businesses work with other businesses on credit. When a buyer business orders goods from the seller business, the seller business issues an invoice for the same. 
